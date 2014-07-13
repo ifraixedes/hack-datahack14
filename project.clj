@@ -1,8 +1,8 @@
 (defproject datahack "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :description "My hack of datahack from TATA Communications"
+  :url "https://github.org/ifraixedes/hack-datahack14"
+  :license {:name "MIT License"
+            :url "https://github.org/ifraixedes/hack-datahack14/blob/master/LICENSE"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/data.csv "0.1.2"]]
   :main ^:skip-aot datahack.core
