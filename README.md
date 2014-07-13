@@ -1,36 +1,17 @@
 # datahack
 
-FIXME: description
+It's a totally project produced in the context of DataHack (#datahack14) from TATA Communications.
+It's a hack produce in Clojure, which I don't have quite experience but I felt that it was good enough to use in this hackathon which delivered a bunch large CSV files, to deal with them and produce data aggregations.
 
-## Installation
+NOTE: The project doesn't contain the data files (CSV) due the terms and conditions of the hackthon which doen't allow to hold the data further than the hacathon's time
 
-Download from http://example.com/FIXME.
+## Dependencies
 
-## Usage
+Clojure environment (used version 1.6) under Java 1.7.0 (Concretely OpenJDK 64-Bit)
+The project has been generated from [leiningen](http://leiningen.org/) `app` template, therefore this repository contains everything to execute the project with [leiningen](http://leiningen.org/), with version 2.4.2 which I used it.
 
-FIXME: explanation
-
-    $ java -jar datahack-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+For the project dependencies (clojure and java libraries) check `project.clj` file
 
 ## License
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Just MIT, read the LICENSE file for more information
